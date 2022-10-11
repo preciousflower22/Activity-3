@@ -1,0 +1,8 @@
+home = C:\Users\Students\Pictures\vscode\python-3.10.7
+implementation = CPython
+version_info = 3.10.7.final.0
+virtualenv = 20.16.5
+include-system-site-packages = false
+base-prefix = C:\Users\Students\Pictures\vscode\python-3.10.7
+base-exec-prefix = C:\Users\Students\Pictures\vscode\python-3.10.7
+base-executable = C:\Users\Students\Pictures\vscode\python-3.10.7\python.exe
